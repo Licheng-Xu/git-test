@@ -1,5 +1,3 @@
-//test1
-//2016.10.18
 #include <iostream>
 using namespace std;
 
